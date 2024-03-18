@@ -1,0 +1,17 @@
+//                   Group Information
+// Semester:         CS564 Spring 2023
+// Lecturer's Name:  Xiangyao Yu
+// Group:            11
+//
+// Group Member1:    Haixi Zhang
+// Email:            hzhang845@wisc.edu
+// CS Login:         haixi
+// 
+// Group Member2:    Yuanjun Ge
+// Email:            ge42@wisc.edu
+// CS Login:         yuanjun
+//
+//
+// Group Member3:    Xinyu Zhou
+// Email:            xzhou422@wisc.edu         
+// CS Login:         xinyuz    
